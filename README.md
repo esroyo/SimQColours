@@ -5,4 +5,4 @@ The purpose of this web app is to validate the qualitative colour descriptions d
 
 It has been developed as part of the course SIU019 Cognitive Processes (MA Intelligent Systems, Jaume I University). It is designed to act as a standalone app. All information is stored in the user's browser.
 
-Demo: http://esroyo.github.io/qcolours
+Demo: http://esroyo.github.io/simqcolours
